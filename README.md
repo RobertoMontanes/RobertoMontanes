@@ -27,7 +27,7 @@ Proyectos educativos, videojuegos, aplicaciones innovadoras y cualquier idea que
 ---
 
 ## 📫 Cómo contactar conmigo
-- **Correo electrónico:** [tu_email@example.com](mailto:tu_email@example.com)
+- **Correo electrónico:** rmr15092004@gmail.com(mailto:rmr15092004@gmail.com)
 - **GitHub:** [github.com/RobertoMontanes](https://github.com/RobertoMontanes)
 
 ---
