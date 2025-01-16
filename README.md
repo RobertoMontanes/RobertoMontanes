@@ -32,10 +32,5 @@ Proyectos educativos, videojuegos, aplicaciones innovadoras y cualquier idea que
 
 ---
 
-## 😄 Pronombres
-Él/Él
-
----
-
 ## ⚡ Dato curioso
 Además de mi interés por la programación, practico **MMA** y soy un gran seguidor del rap, especialmente de artistas como Ayax, Prok y Toteking. 🎤👊
